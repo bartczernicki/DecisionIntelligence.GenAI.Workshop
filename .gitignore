@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+# Secrets (DO NOT CHECK IN SECRET KEYS)
+secrets.settings.json
+
 # User-specific files
 *.rsuser
 *.suo
