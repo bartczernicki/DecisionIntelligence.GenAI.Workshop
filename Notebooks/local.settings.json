@@ -3,5 +3,8 @@
     "Endpoint": "https://YOURENDPOINT.openai.azure.com",
     "APIKey": "AZUREOPENAIAPIKEY",
     "ModelDeploymentName": "MODELDEPLOYMENTNAME"
+  },
+  "BingSearch": {
+    "APIKey": "BINGSEARCHAPIKEY"
   }
 }
