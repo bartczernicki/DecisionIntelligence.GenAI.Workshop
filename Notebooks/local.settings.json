@@ -5,6 +5,6 @@
     "ModelDeploymentName": "MODELDEPLOYMENTNAME"
   },
   "BingSearch": {
-    "APIKey": "BINGSEARCHAPIKEY"
+    "APIKey": "BINGSEARCHAPIKEY" 
   }
 }
