@@ -1,5 +1,7 @@
 # DecisionIntelligence.GenAI.Workshop
-Decision Intelligence Workshop focusing on GenAI using OpenAI, Semantic Kernel, AutoGen and other GenAI tools.
+Decision Intelligence Workshop uses proven decision-making techniques and applies them to Generative AI innovations using using Azure OpenAI, Semantic Kernel, AutoGen and other GenAI tools.
+
+![](https://raw.githubusercontent.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/main/Images/DdecisionIntelligence2.png)
 
 Requirements
 
