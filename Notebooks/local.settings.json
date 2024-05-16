@@ -4,6 +4,10 @@
     "APIKey": "AZUREOPENAIAPIKEY",
     "ModelDeploymentName": "MODELDEPLOYMENTNAME"
   },
+  "OpenAI": {
+    "APIKey": "OPENAIAPIKEY",
+    "ModelId": "MODELID"
+  },
   "BingSearch": {
     "APIKey": "BINGSEARCHAPIKEY" 
   }
