@@ -3,7 +3,7 @@ The Decision Intelligence GenAI Workshop uses proven decision-making techniques,
 
 ![](https://raw.githubusercontent.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/main/Images/DdecisionIntelligence2.png)
 
-Requirements  
+## Requirements  
 
 1. VS Code running on your workstation or VSCode with GitHub CodeSpaces or Azure Machine Learning Notebooks  
 2. Install .NET 8 SDK  
