@@ -1,4 +1,4 @@
-# DecisionIntelligence GenAI Workshop
+# Decision Intelligence GenAI Workshop
 The Decision Intelligence GenAI Workshop uses proven decision-making techniques, communication and hueristics and applies them to Generative AI innovations using using GenAI. What does this mean? You can walk through the the interactive GenAI Notebooks, execute code using Decision Intelligence topics.  
 
 ![](https://raw.githubusercontent.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/main/Images/DdecisionIntelligence2.png)
