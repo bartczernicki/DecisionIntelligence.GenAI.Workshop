@@ -151,7 +151,7 @@ public class BaseballHallOfFamePlugin
     }
 
     [KernelFunction]
-    [Description("Retrieves baseball statistics for a given baseball player.")]
+    [Description("Retrieves baseball statistics for a given baseball player from historical data.")]
     public async Task<MLBBaseballBatter> GetBaseballPlayerStats(
         [Description("The name of the baseball player to search for.")]
         string nameOfBaseballPlayer)
