@@ -9,6 +9,11 @@ The **Decision Intelligence GenAI Workshop** is an interactive course that intro
   
 ![](https://raw.githubusercontent.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/main/Images/DdecisionIntelligence2.png)
 
+## Requirements - To Read (Not Execute Code)
+
+1. No special requirements to read the content. All the of the text, links & images are available by just navigating to the Notebooks folder and reading the section modules sequentially.   
+2. All of the interactive results from the code execution are available to read as well. Those results are pre-cached and it can be read as if you had executed the code interactively.  
+
 ## Requirements - Interactive Notebooks
 
 1. VS Code running on your workstation or VSCode with GitHub CodeSpaces or Azure Machine Learning Notebooks  
