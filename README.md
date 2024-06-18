@@ -1,9 +1,15 @@
 # Decision Intelligence GenAI Workshop
-The Decision Intelligence GenAI Workshop uses proven decision-making techniques, communication and hueristics and applies them to Generative AI innovations using using GenAI. What does this mean? You can walk through the the interactive GenAI Notebooks, execute code using Decision Intelligence topics.  
 
+**[Work In Progress - Estimated beta launch: July 2024]**
+
+The **Decision Intelligence GenAI Workshop** is an interactive course that introduces decision-making theory and demonstrates its application with Generative Artificial Intelligence. There are several key components to the workshop:  
+* A decision intelligence framework that introduces the process of making decisions
+* Application of decision intelligence with Generative AI best practices  
+* Interative Notebooks for applied engineers or software engineers to execute the examples with an orchestration framework (Semantic Kernel)  
+  
 ![](https://raw.githubusercontent.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/main/Images/DdecisionIntelligence2.png)
 
-## Requirements  
+## Requirements - Interactive Notebooks
 
 1. VS Code running on your workstation or VSCode with GitHub CodeSpaces or Azure Machine Learning Notebooks  
 2. Install .NET 8 SDK  
