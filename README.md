@@ -13,8 +13,6 @@ The **Decision Intelligence GenAI Workshop** is an interactive course that intro
 <img width ="750px" src="https://raw.githubusercontent.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/main/Images/DecisionIntelligenceFramework.png">
 <br/>  
 
-![](https://raw.githubusercontent.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/main/Images/DdecisionIntelligence2.png)
-
 ## Requirements - To Read (Not Execute Code)
 
 1. No special requirements to read the content. All the of the text, links & images are available by just navigating to the Notebooks folder and reading the section modules sequentially.   
