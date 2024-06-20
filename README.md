@@ -2,11 +2,17 @@
 
 **[Work In Progress - Estimated beta launch: July 2024]**
 
+<img width ="600px" src="https://raw.githubusercontent.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/main/Images/DdecisionIntelligence2.png">
+<br/>  
+
 The **Decision Intelligence GenAI Workshop** is an interactive course that introduces decision-making theory and demonstrates howto apply theory with Generative Artificial Intelligence. There are several key components to the workshop:  
 * Introduction of a decision intelligence framework that covers systematic processes of making decisions  
 * Apply decision intelligence theory with Generative AI models and APIs  
 * Interative Notebooks for AI engineers/software engineers to execute the examples with an orchestration framework (Semantic Kernel)  
-  
+
+<img width ="750px" src="https://raw.githubusercontent.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/main/Images/DecisionIntelligenceFramework.png">
+<br/>  
+
 ![](https://raw.githubusercontent.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/main/Images/DdecisionIntelligence2.png)
 
 ## Requirements - To Read (Not Execute Code)
