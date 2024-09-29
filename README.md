@@ -1,6 +1,6 @@
 # Decision Intelligence GenAI Workshop
 
-**[Work In Progress - Estimated beta launch: July 2024]**
+**[Work In Progress - Estimated beta launch: October 2024]**
 
 <img width ="600px" src="https://raw.githubusercontent.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/main/Images/DdecisionIntelligence2.png">
 <br/>  
