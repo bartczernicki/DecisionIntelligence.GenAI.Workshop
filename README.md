@@ -6,8 +6,8 @@
 <br/>  
 
 The **Decision Intelligence GenAI Workshop** is an interactive course that introduces decision-making theory and demonstrates howto apply theory with Generative Artificial Intelligence. There are several key components to the workshop:  
-* Introduction of a decision intelligence framework that covers systematic processes of making decisions  
-* Apply decision intelligence theory with Generative AI models and APIs  
+* Introduction of a Decision Intelligence framework that covers systematic processes of making decisions in a workflow 
+* Apply Decision Intelligence theory with Generative AI concepts 
 * Interative Notebooks for AI engineers/software engineers to execute the examples with an orchestration framework (Semantic Kernel)  
 
 <img width ="750px" src="https://raw.githubusercontent.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/main/Images/DecisionIntelligenceFramework.png">
