@@ -1,4 +1,4 @@
-# Decision Intelligence GenAI Workshop
+# Decision Intelligence Generative AI Workshop
 
 **[Work In Progress - Estimated beta launch: January 2025]**
 
