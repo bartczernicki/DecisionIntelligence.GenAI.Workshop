@@ -1,6 +1,6 @@
 # Decision Intelligence GenAI Workshop
 
-**[Work In Progress - Estimated beta launch: November 2024]**
+**[Work In Progress - Estimated beta launch: January 2025]**
 
 <img width ="600px" src="https://raw.githubusercontent.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/main/Images/DdecisionIntelligence2.png">
 <br/>  
@@ -15,7 +15,7 @@ Contents:
 The **Decision Intelligence GenAI Workshop** is an interactive course that introduces decision-making theory and demonstrates howto apply theory with Generative Artificial Intelligence. There are several key components to the workshop:  
 * Introduction of a Decision Intelligence framework that covers systematic processes of making decisions in a workflow 
 * Apply Decision Intelligence theory with Generative AI concepts 
-* Interative Notebooks for AI engineers/software engineers to execute the examples with an orchestration framework (Semantic Kernel)  
+* Interative Notebooks for AI engineers/software engineers to execute the examples with an orchestration framework (Semantic Kernel & OpenAI)  
 
 <img width ="750px" src="https://raw.githubusercontent.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/main/Images/DecisionIntelligenceFramework.png">
 <br/>  
@@ -28,7 +28,7 @@ The **Decision Intelligence GenAI Workshop** is an interactive course that intro
 ## Requirements Interactive Notebooks
 
 1. VS Code running on your local workstation or VSCode with GitHub CodeSpaces or Azure Machine Learning Notebooks  
-2. Install .NET 8 SDK  
+2. Install .NET 9.x SDK  
 3. Polyglot Notebook extension running in VS Code, which allows you to execute .NET program  
 <img width ="600px" src="https://user-images.githubusercontent.com/547415/224161370-1c628967-ae0e-42b2-9c64-e3c1d7756f0b.png">  
 4. Clone or fork this GitHub repo  
