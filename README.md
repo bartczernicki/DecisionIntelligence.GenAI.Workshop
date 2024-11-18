@@ -22,13 +22,13 @@ The **Decision Intelligence GenAI Workshop** is an interactive course that intro
 
 ## Requirements To Read 
 
-1. No special requirements to read the content. All the of the text, links & images are available by just navigating to the Notebooks folder and reading the section modules sequentially.   
-2. All of the interactive results from the code execution are available to read as well. Those results are pre-cached and it can be read as if you had executed the code interactively.  
+1. No special requirements to read the content. All the of the text, links & images are available by just navigating to the Notebooks folder and reading the section modules sequentially. Notebooks folder: https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/tree/main/Notebooks  
+2. All of the interactive results from the code execution are available to read as well. Those results are pre-cached and it can be read as if you had executed the code interactively. 
 
 ## Requirements Interactive Notebooks
 
 1. VS Code running on your local workstation or VSCode with GitHub CodeSpaces or Azure Machine Learning Notebooks  
-2. Install .NET 9.x SDK  
+2. Install .NET 9.x SDK: https://dotnet.microsoft.com/en-us/download/dotnet/9.0 
 3. Polyglot Notebook extension running in VS Code, which allows you to execute .NET program  
 <img width ="600px" src="https://user-images.githubusercontent.com/547415/224161370-1c628967-ae0e-42b2-9c64-e3c1d7756f0b.png">  
 4. Clone or fork this GitHub repo  
