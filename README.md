@@ -22,7 +22,7 @@ The unique structure with diverse focus areas, allows the workshop to be consume
 <img width ="750px" src="https://raw.githubusercontent.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/main/Images/DecisionIntelligenceFramework.png">
 <br/>  
 
-## Different Ways To Gett Started
+## Different Ways To Get Started
 
 1. No special requirements to read the content. All the of the text, links & images are available by just navigating to the Notebooks folder and reading the section modules sequentially. Notebooks folder: https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/tree/main/Notebooks  
 2. All of the interactive results from the code execution are available to read as well. Those results are pre-cached and it can be read as if you had executed the code interactively. 
