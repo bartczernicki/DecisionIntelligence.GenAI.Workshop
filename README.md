@@ -6,7 +6,7 @@
 <br/>  
 
 Contents:  
-[Objective and Risk Analysis Pipeline](#About)  
+[About](#About)  
 [Requirements To Read](#Requirements-To-Read)  
 [Requirements Interactive Notebooks](#Requirements-Interactive-Notebooks)  
 
