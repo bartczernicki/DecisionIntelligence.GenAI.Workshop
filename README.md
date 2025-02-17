@@ -69,7 +69,7 @@ The Table of Contents below illustrates the structure of the Decision Intelligen
 |2i - Semantic Kernel - Gathering Intelligence with Generative AI|☑️|[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/2i%20-%20Semantic%20Kernel%20-%20Gathering%20Intelligence%20with%20Generative%20AI.ipynb)|
 |3a - Semantic Kernel - Decisions with Semantic Functions|☑️|[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/3a%20-%20Semantic%20Kernel%20-%20Decisions%20with%20Semantic%20Functions.ipynb)|
 |3b - Semantic Kernel - Decisions with Native Functions|☑️|[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/3b%20-%20Semantic%20Kernel%20-%20Decisions%20with%20Native%20Functions.ipynb)|
-|3c - Semantic Kernel - Optimizing with Decision Frames|☑️|[Link]([https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/2i%20-%20Semantic%20Kernel%20-%20Gathering%20Intelligence%20with%20Generative%20AI.ipynb](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/3c%20-%20Semantic%20Kernel%20-%20Optimizing%20with%20Decision%20Frames.ipynb))|
+|3c - Semantic Kernel - Optimizing with Decision Frames|☑️|[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/3c%20-%20Semantic%20Kernel%20-%20Optimizing%20with%20Decision%20Frames.ipynb)|
 
 ## Requirements for Interactive Decision Notebooks
 
