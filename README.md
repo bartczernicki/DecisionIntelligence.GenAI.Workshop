@@ -40,6 +40,13 @@ The unique structure with diverse focus areas, allows the workshop to be consume
 - Notebook modules do not "build on each other" from a programming dependency; only from a concept dependency. Therefore, you can jump in and modify as needed 
 - Recommended to "Fork and Hack" and gravitate to the Decision Scenarios with most impact (change AI models, try different APIs or knowledge stores, advanced AI programming techniques etc.)
 
+## Workshop Modules  
+
+The Table of Contents below illustrates the structure of the Decision Intelligence with Generative AI Workshop. The workshop is structured on concepts broken down into Notebook modules (chapters). Each Notebook module consists of Decision Intelligence concepts and/or interactive Generative AI features that can be dynamically executed.
+
+> [!WARNING]
+> This workshop is current being developed in conjunction with the companion book. There will be changes included frequently. Content that is available (even if partially) is noted below. Content that does not have the Availability checkmark is in early stages or not available yet. Please check back frequently.  
+
 ## Requirements for Interactive Decision Notebooks
 
 1. Visual Studio Code running on your local workstation or VS Code with GitHub CodeSpaces or Azure Machine Learning Notebooks  
