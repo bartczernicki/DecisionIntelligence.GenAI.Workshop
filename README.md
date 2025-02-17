@@ -49,6 +49,8 @@ The Table of Contents below illustrates the structure of the Decision Intelligen
 | Module (Chapter) | Available | Link |
 |-----------------------------------------------|----------|-------|
 |1a - Decision Intelligence - Introducing the Decision Intelligence Framework| ☑️ |[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/1a%20-%20Decision%20Intelligence%20-%20Introducing%20the%20Decision%20Intelligence%20Framework.ipynb)|
+|1b - Decision Intelligence - Decision Framing| ☑️ |[Link]([Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/1b%20-%20Decision%20Intelligence%20-%20Decision%20Framing.ipynb)|
+
 
 ## Requirements for Interactive Decision Notebooks
 
