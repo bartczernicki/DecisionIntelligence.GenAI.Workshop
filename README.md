@@ -6,15 +6,15 @@
 <br/>  
 
 Contents:  
-[Objective and Risk Analysis Pipeline](#Objective)  
+[Objective and Risk Analysis Pipeline](#About)  
 [Requirements To Read](#Requirements-To-Read)  
 [Requirements Interactive Notebooks](#Requirements-Interactive-Notebooks)  
 
-## Objective 
+## About 
 
-The **Decision Intelligence GenAI Workshop** is an interactive course that introduces decision-making theory and demonstrates howto apply theory with Generative Artificial Intelligence. There are several key components to the workshop:  
-* Introduction of a Decision Intelligence framework that covers systematic processes of making decisions in a workflow 
-* Apply Decision Intelligence theory with Generative AI concepts 
+The **Decision Intelligence GenAI Workshop** is an interactive course that primarily focuses on three areas:  
+* Introduction to Decision-Making with a Decision Intelligence Framework that covers systematic processes of making decisions   
+* Application of Decision Intelligence theory with Generative AI 
 * Interative Notebooks for AI engineers/software engineers to execute the examples with an orchestration framework (Semantic Kernel & OpenAI)  
 
 <img width ="750px" src="https://raw.githubusercontent.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/main/Images/DecisionIntelligenceFramework.png">
