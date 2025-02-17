@@ -26,8 +26,8 @@ The unique structure with diverse focus areas, allows the workshop to be consume
 
 1. **Read Persona** - Ideal for non-technical users not familiar with Decision Intelligence nor Generative AI
   -  No special requirements to read any of the workshop content. All the of the text, links & images are available by just navigating to the Notebooks folder and reading the section modules sequentially. Notebooks folder:   https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/tree/main/Notebooks  
-  -  All Generative AI output is pre-run and available.
-  -  Recommend further detailed resources provided in the workshop.
+  -  All Generative AI output is pre-run and available to read. 
+  -  Recommend further detailed book resources provided in the workshop to immerse yourself in Decision Theory, Decision-Making, Cognitive Theory etc. 
   -  Recommend companion book "Generative AI with Decision Intelligence" (coming late 2025).
 5. All of the interactive results from the code execution are available to read as well. Those results are pre-cached and it can be read as if you had executed the code interactively. 
 
