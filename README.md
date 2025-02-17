@@ -31,12 +31,12 @@ The unique structure with diverse focus areas, allows the workshop to be consume
 - Recommend companion book **"Generative AI with Decision Intelligence"** (coming late 2025) for more complete and advanced content  
 2. **Technical Persona** - Ideal for technical users that might not be familiar with Decision Intelligence nor Generative AI, but are familiar with Jupyter Notebooks interactivity
 - All the considerations from the "Read Persona" Getting Started applies
-- Set up the [Requirements Interactive Notebooks](#Requirements-Interactive-Notebooks) to add custom interactivity 
+- Set up the [Requirements for Interactive Decision Notebooks](#Requirements-for-Interactive-Decision-Notebooks) to add custom interactivity 
 - Run the workshop Notebook modules sequentially, as the Decision Intelligence & AI concepts "build on" each other
 - C#/.NET Code will be executed but simple modifications to decision prompts, agents, configuration files are clear to added decision exploration
 3. **Decision Intelligence AI Engineer** - Ideal for a technical user that is familiar with programming and Generative AI
 - Most of the considerations from the "Technical Persona" Getting Started applies
-- Set up the [Requirements Interactive Notebooks](#Requirements-Interactive-Notebooks) to add custom interactivity
+- Set up the [Requirements for Interactive Decision Notebooks](#Requirements-for-Interactive-Decision-Notebooks) to add custom interactivity
 - Notebook modules do not "build on each other" from a programming dependency; only from a concept dependency. Therefore, you can jump in and modify as needed 
 - Recommended to "Fork and Hack" and gravitate to the Decision Scenarios with most impact 
 
