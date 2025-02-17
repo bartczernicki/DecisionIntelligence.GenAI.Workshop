@@ -8,6 +8,7 @@
 Contents:  
 [About](#About)  
 [Different Ways To Get Started](#Different-Ways-To-Get-Started)  
+[Workshop Modules](#Workshop-Modules)  
 [Requirements for Interactive Decision Notebooks](#Requirements-for-Interactive-Decision-Notebooks)  
 
 ## About 
