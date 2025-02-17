@@ -42,10 +42,13 @@ The unique structure with diverse focus areas, allows the workshop to be consume
 
 ## Workshop Modules  
 
-The Table of Contents below illustrates the structure of the Decision Intelligence with Generative AI Workshop. The workshop is structured on concepts broken down into Notebook modules (chapters). Each Notebook module consists of Decision Intelligence concepts and/or interactive Generative AI features that can be dynamically executed.
-
+The Table of Contents below illustrates the structure of the Decision Intelligence with Generative AI Workshop. The workshop is structured on concepts broken down into Notebook modules (chapters). Each Notebook module consists of Decision Intelligence concepts and/or interactive Generative AI features that can be dynamically executed.  
 > [!WARNING]
 > This workshop is current being developed in conjunction with the companion book. During this time, there will be frequent changes. Content that is available (even if partially) is noted below. Content that does not have the Availability checkmark is in early stages or not available yet. Please check back for updates!  
+
+| Module (Chapter) | Available | Link |
+|-----------------------------------------------|----------|-------|
+| High Upfront Cost                             |    ☑️      |[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/1a%20-%20Decision%20Intelligence%20-%20Introducing%20the%20Decision%20Intelligence%20Framework.ipynb)|
 
 ## Requirements for Interactive Decision Notebooks
 
