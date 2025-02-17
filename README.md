@@ -25,12 +25,14 @@ The unique structure with diverse focus areas, allows the workshop to be consume
 ## Different Ways To Get Started
 
 1. **Read Persona** - Ideal for non-technical users not familiar with Decision Intelligence nor Generative AI
-  -  No special requirements to read any of the workshop content. All the of the text, links & images are available by just navigating to the Notebooks folder and reading the section modules sequentially. Notebooks folder:   https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/tree/main/Notebooks  
+- No special requirements to read any of the workshop content. All the of the text, links & images are available by just navigating to the Notebooks folder and reading the section modules sequentially. Notebooks folder:   https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/tree/main/Notebooks  
 - All Generative AI output is pre-run and available to read  
 - Recommend further detailed book resources provided in the workshop to immerse yourself in Decision Theory, Decision-Making, Cognitive Theory etc. 
 - Recommend companion book **"Generative AI with Decision Intelligence"** (coming late 2025) for more complete and advanced content  
-2. **Technical Persona** - Ideal for technical users that might not be familiar with Decision Intelligence nor Generative AI, but are familiar with Jupyter Notebooks and can execute tasks
-  -    
+2. **Technical Persona** - Ideal for technical users that might not be familiar with Decision Intelligence nor Generative AI, but are familiar with Jupyter Notebooks interactivity
+- All the ways from the "Read Persona" getting started applies
+- Set up the [Requirements Interactive Notebooks](#Requirements-Interactive-Notebooks)
+- Run the workshop Notebook modules sequentially, as the Decision Intelligence & AI concepts "build on" each other
 
 ## Requirements To Run & Modify - Interactive Notebooks
 
