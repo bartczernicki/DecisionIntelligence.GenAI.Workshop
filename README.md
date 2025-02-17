@@ -7,7 +7,7 @@
 
 Contents:  
 [About](#About)  
-[Different Ways To Gett Started](#Different-Ways-To-Get-Started)  
+[Different Ways To Get Started](#Different-Ways-To-Get-Started)  
 [Requirements Interactive Notebooks](#Requirements-Interactive-Notebooks)  
 
 ## About 
