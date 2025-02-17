@@ -50,7 +50,13 @@ The Table of Contents below illustrates the structure of the Decision Intelligen
 |-----------------------------------------------|----------|-------|
 |1a - Decision Intelligence - Introducing the Decision Intelligence Framework| ☑️ |[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/1a%20-%20Decision%20Intelligence%20-%20Introducing%20the%20Decision%20Intelligence%20Framework.ipynb)|
 |1b - Decision Intelligence - Decision Framing| ☑️ |[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/1b%20-%20Decision%20Intelligence%20-%20Decision%20Framing.ipynb)|
-
+|1c - Decision Intelligence - Gathering Intelligence| ☑️ |[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/1c%20-%20Decision%20Intelligence%20-%20Gathering%20Intelligence.ipynb)|
+|1d - Decision Intelligence - Decision Execution with Intuition| ☑️ |[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/1d%20-%20Decision%20Intelligence%20-%20Decision%20Execution%20with%20Intuition.ipynb)|
+|1e - Decision Intelligence - Decision Execution with Decision Rules| ☑️ |[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/1e%20-%20Decision%20Intelligence%20-%20Decision%20Execution%20with%20Decision%20Rules.ipynb)|
+|1f - Decision Intelligence - Decision Execution with Quantitative Methods|  |[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/1f%20-%20Decision%20Intelligence%20-%20Decision%20Execution%20with%20Quantitative%20Methods.ipynb)|
+|1g - Decision Intelligence - Decision Communication|  |[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/1g%20-%20Decision%20Intelligence%20-%20Decision%20Communication.ipynb)|
+|1h - Decision Intelligence - Using the Decision Intelligence Framework| |[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/1h%20-%20Decision%20Intelligence%20-%20Using%20the%20Decision%20Intelligence%20Framework.ipynb)|
+|1i - Decision Intelligence - Enterprise Decision Intelligence| |[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/1i%20-%20Decision%20Intelligence%20-%20Enterprise%20Decision%20Intelligence.ipynb)|
 
 ## Requirements for Interactive Decision Notebooks
 
