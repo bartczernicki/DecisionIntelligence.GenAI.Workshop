@@ -12,7 +12,7 @@ Contents:
 
 ## About 
 
-The **Decision Intelligence GenAI Workshop** is an interactive course that primarily focuses on three areas:  
+The **Decision Intelligence GenAI Workshop** is an interactive course that pairs with an upcoming book called **"Decision Intelligence with Generative AI"**. This course primarily focuses on three areas:  
 * Introduction to Decision-Making with a Decision Intelligence Framework that covers systematic processes of making decisions   
 * Application of Decision Intelligence theory with Generative AI 
 * Interative Notebooks for AI engineers/software engineers to execute the examples with an orchestration framework (Semantic Kernel & OpenAI)  
