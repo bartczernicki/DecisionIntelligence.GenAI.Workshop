@@ -1,6 +1,6 @@
 # Decision Intelligence Generative AI Workshop
 
-**[Work In Progress - Estimated beta launch: March 2025]**
+**[Work In Progress - Estimated beta launch: May 2025]**
 
 <img style="display: block; margin: auto;" width ="700px" src="https://raw.githubusercontent.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/main/Images/DecisionIntelligenceFramework/DecisionIntelligence.png">
 <br/>  
