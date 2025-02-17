@@ -48,7 +48,7 @@ The Table of Contents below illustrates the structure of the Decision Intelligen
 
 | Module (Chapter) | Available | Link |
 |-----------------------------------------------|----------|-------|
-| High Upfront Cost                             |    ☑️      |[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/1a%20-%20Decision%20Intelligence%20-%20Introducing%20the%20Decision%20Intelligence%20Framework.ipynb)|
+|1a - Decision Intelligence - Introducing the Decision Intelligence Framework|    ☑️      |[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/1a%20-%20Decision%20Intelligence%20-%20Introducing%20the%20Decision%20Intelligence%20Framework.ipynb)|
 
 ## Requirements for Interactive Decision Notebooks
 
