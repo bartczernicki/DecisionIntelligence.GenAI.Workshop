@@ -24,8 +24,12 @@ The unique structure with diverse focus areas, allows the workshop to be consume
 
 ## Different Ways To Get Started
 
-1. No special requirements to read the content. All the of the text, links & images are available by just navigating to the Notebooks folder and reading the section modules sequentially. Notebooks folder: https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/tree/main/Notebooks  
-2. All of the interactive results from the code execution are available to read as well. Those results are pre-cached and it can be read as if you had executed the code interactively. 
+1. **Read Persona** - Ideal for non-technical users not familiar with Decision Intelligence nor Generative AI
+  -  No special requirements to read any of the workshop content. All the of the text, links & images are available by just navigating to the Notebooks folder and reading the section modules sequentially. Notebooks folder:   https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/tree/main/Notebooks  
+  -  All Generative AI output is pre-run and available.
+  -  Recommend further detailed resources provided in the workshop.
+  -  Recommend companion book "Generative AI with Decision Intelligence" (coming late 2025).
+5. All of the interactive results from the code execution are available to read as well. Those results are pre-cached and it can be read as if you had executed the code interactively. 
 
 ## Requirements To Run & Modify - Interactive Notebooks
 
