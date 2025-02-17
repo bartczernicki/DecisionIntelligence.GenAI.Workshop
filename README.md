@@ -57,6 +57,16 @@ The Table of Contents below illustrates the structure of the Decision Intelligen
 |1g - Decision Intelligence - Decision Communication|  |[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/1g%20-%20Decision%20Intelligence%20-%20Decision%20Communication.ipynb)|
 |1h - Decision Intelligence - Using the Decision Intelligence Framework| |[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/1h%20-%20Decision%20Intelligence%20-%20Using%20the%20Decision%20Intelligence%20Framework.ipynb)|
 |1i - Decision Intelligence - Enterprise Decision Intelligence| |[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/1i%20-%20Decision%20Intelligence%20-%20Enterprise%20Decision%20Intelligence.ipynb)|
+|1a - Decision Intelligence - Introducing the Decision Intelligence Framework|☑️|[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/1a%20-%20Decision%20Intelligence%20-%20Introducing%20the%20Decision%20Intelligence%20Framework.ipynb)|
+|2a - Workshop - Setup to Execute Code Exercises|☑️|[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/1b%20-%20Decision%20Intelligence%20-%20Decision%20Framing.ipynb)|
+|2b - Workshop - About Microsoft AI Extensions| |[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/2b%20-%20Workshop%20-%20About%20Microsoft%20AI%20Extensions.ipynb)|
+|2c - Workshop - About Semantic Kernel Orchestration|☑️|[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/2c%20-%20Workshop%20-%20About%20Semantic%20Kernel%20Orchestration.ipynb)|
+|2d - Semantic Kernel - Simple Decision Prompts|☑️|[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/2d%20-%20Semantic%20Kernel%20-%20Simple%20Decision%20Prompts.ipynb)|
+|2e - Semantic Kernel - Chat Completion for Decisions|☑️|[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/2e%20-%20Semantic%20Kernel%20-%20Chat%20Completion%20for%20Decisions.ipynb)|
+|2f - Semantic Kernel - Open Source Decision Intelligence|☑️|[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/2f%20-%20Semantic%20Kernel%20-%20Open%20Source%20Decision%20Intelligence.ipynb)|
+|2g - Semantic Kernel - Prompt Engineering for Quality Decisions|☑️|[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/2g%20-%20Semantic%20Kernel%20-%20Prompt%20Engineering%20for%20Quality%20Decisions.ipynb)|
+|2h - Semantic Kernel - Premortem (What-If) Decision Analysis|☑️|[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/2h%20-%20Semantic%20Kernel%20-%20Premortem%20(What-If)%20Decision%20Analysis.ipynb)|
+|2i - Semantic Kernel - Gathering Intelligence with Generative AI|☑️|[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/2i%20-%20Semantic%20Kernel%20-%20Gathering%20Intelligence%20with%20Generative%20AI.ipynb)|
 
 ## Requirements for Interactive Decision Notebooks
 
