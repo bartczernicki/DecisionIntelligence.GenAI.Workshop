@@ -7,7 +7,7 @@
 
 Contents:  
 [About](#About)  
-[Requirements To Read](#Requirements-To-Read)  
+[Getting Started](#Getting-Started)  
 [Requirements Interactive Notebooks](#Requirements-Interactive-Notebooks)  
 
 ## About 
@@ -16,6 +16,8 @@ The **Decision Intelligence GenAI Workshop** is an interactive course that pairs
 * Introduction to Decision-Making with a Decision Intelligence Framework that covers systematic processes of making decisions   
 * Application of Decision Intelligence theory with Generative AI 
 * Interative Notebooks for AI engineers/software engineers to execute the examples with an orchestration framework (Semantic Kernel & OpenAI)  
+
+The unique structure with diverse focus areas, allows the workshop to be consumed in several ways. Depending on your familiarity with decision theory or AI acumen, you have several paths to get started.  
 
 <img width ="750px" src="https://raw.githubusercontent.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/main/Images/DecisionIntelligenceFramework.png">
 <br/>  
