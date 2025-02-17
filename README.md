@@ -38,7 +38,7 @@ The unique structure with diverse focus areas, allows the workshop to be consume
 - Most of the considerations from the "Technical Persona" Getting Started applies
 - Set up the [Requirements for Interactive Decision Notebooks](#Requirements-for-Interactive-Decision-Notebooks) to add custom interactivity
 - Notebook modules do not "build on each other" from a programming dependency; only from a concept dependency. Therefore, you can jump in and modify as needed 
-- Recommended to "Fork and Hack" and gravitate to the Decision Scenarios with most impact 
+- Recommended to "Fork and Hack" and gravitate to the Decision Scenarios with most impact (change AI models, try different APIs or knowledge stores, advanced AI programming techniques etc.)
 
 ## Requirements for Interactive Decision Notebooks
 
