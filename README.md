@@ -78,8 +78,7 @@ The Table of Contents below illustrates the structure of the Decision Intelligen
 |5a - OpenAI - Improving Decisions with OpenAI LogProbs||[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/5a%20-%20OpenAI%20-%20Improving%20Decisions%20with%20OpenAI%20LogProbs.ipynb)|
 |5b - OpenAI - Measuring GenAI Probabilistic Accuracy with LogProbs|  |[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/5b%20-%20OpenAI%20-%20Measuring%20GenAI%20Probabilistic%20Accuracy%20with%20LogProbs.ipynb)|
 |5c - OpenAI - Validating Multiple Decisions with Aggregated Brier Scores|  |[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/5c%20-%20OpenAI%20-%20Validating%20Multiple%20Decisions%20with%20Aggregated%20Brier%20Scores.ipynb)|
-|1h - Decision Intelligence - Using the Decision Intelligence Framework| |[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/6a%20-%20Semantic%20Kernel%20-%20Decisions%20with%20AI%20Agent%20Personas.ipynb)|
-|6a - Semantic Kernel - Decisions with AI Agent Personas|☑️|[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/1i%20-%20Decision%20Intelligence%20-%20Enterprise%20Decision%20Intelligence.ipynb)|
+|6a - Semantic Kernel - Decisions with AI Agent Personas|☑️|[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/6a%20-%20Semantic%20Kernel%20-%20Decisions%20with%20AI%20Agent%20Personas.ipynb)|
 |6b - Semantic Kernel - Agent Personas Decisions with Moderator||[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/6b%20-%20Semantic%20Kernel%20-%20Agent%20Personas%20Decisions%20with%20Moderator.ipynb)|
 
 ## Requirements for Interactive Decision Notebooks
