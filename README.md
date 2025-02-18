@@ -29,17 +29,17 @@ The unique structure with diverse focus areas, allows this workshop to be consum
 - Nothing to install! No special requirements to read any of the workshop content. All the of the text, links & images are available by just navigating to the Notebooks folder and reading the section modules sequentially. Notebooks folder:   https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/tree/main/Notebooks  
 - All Generative AI output is pre-run and available to read in a browser  
 - Recommend further detailed book resources provided in the workshop to immerse yourself in Decision Theory, Decision-Making, Cognitive Theory etc. 
-- Recommend companion book **"Generative AI with Decision Intelligence"** (coming late 2025) for more complete and advanced content  
+- Recommend companion book **"Generative AI with Decision Intelligence"** (coming late 2025) for a more complete reading experience and advanced content not in the workshop  
 2. **Technical Persona** - Ideal for technical users that might not be familiar with Decision Intelligence nor Generative AI, but are familiar with Jupyter Notebooks interactivity
 - All the considerations from the "Read Persona" Getting Started applies
 - Set up the [Requirements for Interactive Decision Notebooks](#Requirements-for-Interactive-Decision-Notebooks) to add custom interactivity 
-- Run the workshop Notebook modules sequentially, as the Decision Intelligence & AI concepts "build on" each other
+- Run the workshop Notebook modules sequentially (no coding required!), as the Decision Intelligence & AI concepts "build on" each other  
 - C#/.NET Code will be executed but simple modifications to decision prompts, agents, configuration files are clear to added decision exploration
 3. **Decision Intelligence AI Engineer** - Ideal for a technical user that is familiar with programming and Generative AI
 - Most of the considerations from the "Technical Persona" Getting Started applies
 - Set up the [Requirements for Interactive Decision Notebooks](#Requirements-for-Interactive-Decision-Notebooks) to add custom interactivity
-- Notebook modules do not "build on each other" from a programming dependency; only from a concept dependency. Therefore, you can jump in and modify as needed 
-- Recommended to "Fork and Hack" and gravitate to the Decision Scenarios with most impact (change AI models, try different APIs or knowledge stores, advanced AI programming techniques etc.)
+- Notebook modules do not "build on each other" from a programming dependency; only from a Decision Intelligence concept dependency. Therefore, you can jump in and modify where needed  
+- Recommended to "Fork and Hack" and gravitate to the Decision Scenarios with most impact (change AI models, try different APIs or knowledge stores, advanced AI programming techniques, port code to your projects etc.)
 
 ## Workshop Modules  
 
