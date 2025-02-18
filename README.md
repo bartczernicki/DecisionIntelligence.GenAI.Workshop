@@ -13,14 +13,14 @@ Contents:
 
 ## About 
 
-Navigating decisions effectively is clearly important, serving as a key differentiator for successful individuals. Therefore, decision-making ability is regarded by executives as one of the most highly desired business skills! However, effective and quality decision-making is not simple. Perhaps the intersection of Decision Theory and Generative AI can help.
+Navigating decisions effectively is important, serving as a key differentiator for successful individuals. Therefore, decision-making ability is regarded by executives as one of the most highly desired business skills! However, effective and quality decision-making is not simple. Perhaps the intersection of Decision Theory and Generative AI can help.
 
 The **Decision Intelligence Generative AI Workshop** is an interactive course that is paired with an upcoming book called **"Decision Intelligence with Generative AI"**. This course was designed with a focus on three key areas:  
 * Introduction to Decision-Making with a Decision Intelligence Framework that covers systematic processes of making decisions   
 * Application of Decision Intelligence theory with Generative AI 
 * Interative Notebooks for AI engineers/software engineers to execute the examples with an orchestration framework (Semantic Kernel & OpenAI)  
 
-The unique structure with diverse focus areas, allows this workshop to be consumed in several ways. Depending on your persona, familiarity with Decision Theory or AI acumen, you have several paths to get started.  
+The unique workshop structure with diverse focus areas, allows this workshop to be consumed in several ways. Depending on your persona, familiarity with Decision Theory or AI acumen, you have several paths to get started.  
 
 <img width ="750px" src="https://raw.githubusercontent.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/main/Images/DecisionIntelligenceFramework.png">
 <br/>  
