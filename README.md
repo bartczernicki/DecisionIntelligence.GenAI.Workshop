@@ -20,7 +20,7 @@ The **Decision Intelligence Generative AI Workshop** is an interactive course th
 * Application of Decision Intelligence theory with Generative AI 
 * Interative Notebooks for AI engineers/software engineers to execute the examples with an orchestration framework (Semantic Kernel & OpenAI)  
 
-The unique structure with diverse focus areas, allows this workshop to be consumed in several ways. Depending on your persona. Based on familiarity with Decision Theory or AI acumen, you have several paths to get started.  
+The unique structure with diverse focus areas, allows this workshop to be consumed in several ways. Depending on your persona, familiarity with Decision Theory or AI acumen, you have several paths to get started.  
 
 <img width ="750px" src="https://raw.githubusercontent.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/main/Images/DecisionIntelligenceFramework.png">
 <br/>  
