@@ -6,10 +6,11 @@
 <br/>  
 
 Contents:  
-[About](#About)  
-[Different Ways To Get Started](#Different-Ways-To-Get-Started)  
-[Workshop Modules](#Workshop-Modules)  
-[Requirements for Interactive Decision Notebooks](#Requirements-for-Interactive-Decision-Notebooks)  
+💡 [About](#About)  
+👣 [Different Ways To Get Started](#Different-Ways-To-Get-Started)  
+📖 [Printed Book](#Printed-Book)  
+🧱 [Workshop Modules](#Workshop-Modules)  
+✅ [Requirements for Interactive Decision Notebooks](#Requirements-for-Interactive-Decision-Notebooks)  
 
 ## About 
 
@@ -43,10 +44,19 @@ The unique workshop structure with diverse focus areas, allows this workshop to 
 - Notebook modules do not "build on each other" from a programming dependency; only from a Decision Intelligence concept dependency. Therefore, you can jump in and modify where needed  
 - Recommended to "Fork and Hack" and gravitate to the Decision Scenarios with most impact (change AI models, try different APIs or knowledge stores, advanced AI programming techniques, port code to your projects etc.)
 
+## Printed Book
+
+What is difference between the workshop the printed companion book? The Printed Book has the following features:
+* Deeper focus on Decision Intelligence theory with application of Generative AI rather than a code-first focus.  
+* Additional advanced real-world examples with Artificial Intelligence.  
+* Chapters are organized using the Decision Intelligence Framework. There is no code illustrated in the book, making it easier to consume for non-technical readers.  
+* References in text content to further deepen decision-making knowledge.  
+* Extra Curated Chapters with Lists for Easy Lookup of: Decision Intelligence Quotes, Decision Rules, Decision Intelligence Resources.  
+
 ## Workshop Modules  
 
 The Table of Contents below illustrates the structure of the Decision Intelligence with Generative AI Workshop. The workshop is structured on concepts broken down into Notebook modules (chapters). Each Notebook module consists of Decision Intelligence concepts and/or interactive Generative AI features that can be dynamically executed.  
-> [!WARNING]
+> ⚠️ 
 > This workshop is currently being developed in conjunction with the companion book. During this time, there will be frequent changes. Content that is available (even if partially) is noted below. Content that does not have the Availability checkmark is in early stages or not available yet. Please check back for updates!  
 
 | Module (Chapter) | Available | Link |
