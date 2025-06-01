@@ -43,7 +43,7 @@ The unique workshop structure with diverse focus areas, allows this workshop to 
 - Most of the considerations from the "Technical Persona" Getting Started applies
 - Set up the [Requirements for Interactive Decision Notebooks](#Requirements-for-Interactive-Decision-Notebooks) to add custom interactivity
 - Notebook modules do not "build on each other" from a programming dependency; only from a Decision Intelligence concept dependency. Therefore, you can jump in and modify where needed  
-- Recommended to "Fork and Hack" and gravitate to the Decision Scenarios with most impact (change AI models, try different APIs or knowledge stores, advanced AI programming techniques, port code to your projects etc.)
+- Recommended to "Fork and Hack" and gravitate to the Decision Scenarios with most impact (change AI models, try different APIs or knowledge stores, advanced AI programming techniques, port code to your projects etc.). Advanced users are encouraged to fork this repository and try out different models or techniques.  
 
 ## Printed Book
 
@@ -94,13 +94,16 @@ The Table of Contents below illustrates the structure of the Decision Intelligen
 
 ## Requirements for Interactive Decision Notebooks
 
-1. Visual Studio Code running on your local workstation or VS Code with GitHub CodeSpaces or Azure Machine Learning Notebooks  
-2. Install .NET 9.x SDK: https://dotnet.microsoft.com/en-us/download/dotnet/9.0 
+1. Visual Studio Code running on your local workstation or VS Code with GitHub CodeSpaces or Azure Machine Learning Notebooks
+   - **Install VS Code**: [Download Visual Studio Code](https://code.visualstudio.com/)
+   - **Use GitHub CodeSpaces**: [Open in GitHub CodeSpaces](https://github.com/features/codespaces)
+   - **Azure Machine Learning Notebooks**
+2. Install .NET 9.x SDK:
+   - **Install .NET 9 SDK**: [Download .NET 9]([https://code.visualstudio.com/](https://dotnet.microsoft.com/en-us/download/dotnet/9.0))  
 3. Polyglot Notebook extension running in VS Code, which allows you to execute .NET program  
 <img width ="600px" src="https://user-images.githubusercontent.com/547415/224161370-1c628967-ae0e-42b2-9c64-e3c1d7756f0b.png">
-
-5. Clone or fork this GitHub Repository    
-6. Have access to Azure OpenAI. Bing Search for internet knowledge graph (Endpoint, GPT-4 model, API Key, Bing Search API Key)  
-7. When running the notebooks, select `.NET Interactive` for your VS Code Notebook kernel  
+4. Clone or fork this GitHub Repository    
+5. Have access to Azure OpenAI. Bing Search for internet knowledge graph (Endpoint, GPT-4 model, API Key, Bing Search API Key)  
+6. When running the notebooks, select `.NET Interactive` for your VS Code Notebook kernel  
 <img width ="600px" src="https://user-images.githubusercontent.com/19276747/222540791-a054da73-a111-454f-9e93-251d620a0c2d.png">
 
