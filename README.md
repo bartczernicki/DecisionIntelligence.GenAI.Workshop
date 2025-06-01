@@ -7,7 +7,7 @@
 
 Contents:  
 💡 [About](#About)  
-👣 [Getting Started – Choose Your Path](#Getting-Started–Choose-Your-Path)  
+👣 [Getting Started – Choose Your Path](#getting-started-choose-your-path)
 📖 [Printed Book](#Printed-Book)  
 🧱 [Workshop Modules](#Workshop-Modules)  
 ✅ [Requirements for Interactive Decision Notebooks](#Requirements-for-Interactive-Decision-Notebooks)  
@@ -29,17 +29,17 @@ The unique workshop structure with diverse focus areas, allows this workshop to 
 
 ## Getting Started – Choose Your Path
 
-1. 👓 **Read Persona** - Ideal for non-technical users not familiar with Decision Intelligence nor Generative AI
+1. 👓 **Reader Persona - Read-Only (Non-Technical)** - Ideal for non-technical users not familiar with Decision Intelligence nor Generative AI
 - Nothing to install! No special requirements to read any of the workshop content. All the of the text, links & images are available by just navigating to the Notebooks folder and reading the section modules sequentially. Notebooks folder:   https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/tree/main/Notebooks  
 - All Generative AI output is pre-run and available to read in a browser  
 - Recommend further detailed book resources provided in the workshop to immerse yourself in Decision Theory, Decision-Making, Cognitive Theory etc. 
 - Recommend companion book **"Generative AI with Decision Intelligence"** (coming late 2025) for a more complete reading experience and advanced content not in the workshop  
-2. 💻 **Technical Persona** - Ideal for technical users that might not be familiar with Decision Intelligence nor Generative AI, but are familiar with Jupyter Notebooks interactivity
+2. 💻 **Technical Persona - Interactive (Technical)** - Ideal for technical users that might not be familiar with Decision Intelligence nor Generative AI, but are familiar with Jupyter Notebooks interactivity
 - All the considerations from the "Read Persona" Getting Started applies
 - Set up the [Requirements for Interactive Decision Notebooks](#Requirements-for-Interactive-Decision-Notebooks) to add custom interactivity 
 - Run the workshop Notebook modules sequentially (no coding required!), as the Decision Intelligence & AI concepts "build on" each other  
 - C#/.NET Code will be executed but simple modifications to decision prompts, agents, configuration files are clear to added decision exploration
-3. 🧑‍💻 **Decision Intelligence AI Engineer** - Ideal for a technical user that is familiar with programming and Generative AI
+3. 🧑‍💻 **AI Engineer - Interactive (Advanced Technical)** - Ideal for a technical user that is familiar with programming and Generative AI
 - Most of the considerations from the "Technical Persona" Getting Started applies
 - Set up the [Requirements for Interactive Decision Notebooks](#Requirements-for-Interactive-Decision-Notebooks) to add custom interactivity
 - Notebook modules do not "build on each other" from a programming dependency; only from a Decision Intelligence concept dependency. Therefore, you can jump in and modify where needed  
