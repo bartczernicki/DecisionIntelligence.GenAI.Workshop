@@ -7,7 +7,7 @@
 
 Contents:  
 💡 [About](#About)  
-👣 [Getting Started – Choose Your Path](#getting-started-by-choosing-your-path)  
+👣 [Getting Started – Choose Your Path](#getting-started-choose-your-path)  
 📖 [Printed Book](#Printed-Book)  
 🧱 [Workshop Modules](#Workshop-Modules)  
 ✅ [Requirements for Interactive Decision Notebooks](#Requirements-for-Interactive-Decision-Notebooks)  
@@ -27,7 +27,7 @@ The unique workshop structure with diverse focus areas, allows this workshop to 
 <img width ="750px" src="https://raw.githubusercontent.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/main/Images/DecisionIntelligenceFramework.png">
 <br/>  
 
-## Getting Started By Choosing Your Path
+## Getting Started – Choose Your Path  
 
 1. 👓 **Reader Persona - Read-Only (Non-Technical)** - Ideal for non-technical users not familiar with Decision Intelligence nor Generative AI
 - Nothing to install! No special requirements to read any of the workshop content. All the of the text, links & images are available by just navigating to the Notebooks folder and reading the section modules sequentially. Notebooks folder:   https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/tree/main/Notebooks  
