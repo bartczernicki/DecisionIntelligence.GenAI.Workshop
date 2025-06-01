@@ -20,7 +20,7 @@ This **Decision Intelligence Generative AI Workshop** is an interactive course t
 * Illustration of important Decision-Making concepts 
 * Introduction of the Decision Intelligence Framework that applies systematic decision-making  
 * Application of Decision Intelligence theory with Generative AI 
-* Interative Notebooks for AI engineers/software engineers to execute the examples with an orchestration framework (Semantic Kernel & OpenAI)  
+* Interactive Notebooks for AI engineers/software engineers to execute the examples with an orchestration framework (Semantic Kernel & OpenAI)  
 
 The unique workshop structure with diverse focus areas, allows this workshop to be consumed in several ways. Depending on your persona, familiarity with Decision Theory or AI acumen, you have several paths to get started.  
 
@@ -30,11 +30,11 @@ The unique workshop structure with diverse focus areas, allows this workshop to 
 ## Getting Started: Choose Your Path  
 
 1. 👓 **Reader Persona - Read-Only (Non-Technical)** - Ideal for non-technical users not familiar with Decision Intelligence nor Generative AI
-- Nothing to install! No special requirements to read any of the workshop content. All the of the text, links & images are available by just navigating to the Notebooks folder and reading the section modules sequentially. Notebooks folder:   https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/tree/main/Notebooks  
+- Nothing to install! No special requirements to read any of the workshop content. All of the text, links & images are available by just navigating to the Notebooks folder and reading the section modules sequentially. Notebooks folder:   https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/tree/main/Notebooks  
 - All Generative AI output is pre-run and available to read in a browser  
 - Recommend further detailed book resources provided in the workshop to immerse yourself in Decision Theory, Decision-Making, Cognitive Theory etc. 
 - Recommend companion book **"Generative AI with Decision Intelligence"** (coming late 2025) for a more complete reading experience and advanced content not in the workshop  
-2. 💻 **Technical Persona - Interactive (Technical)** - Ideal for technical users that might not be familiar with Decision Intelligence nor Generative AI, but are familiar with Jupyter Notebooks interactivity
+2. 💻 **Technical Persona - Interactive (Technical)** - Ideal for technical users that might not be familiar with Decision Intelligence nor Generative AI, but are familiar with Jupyter Notebooks interactivity. The persona can change basic connection strings and make simple code changes.  
 - All the considerations from the "Read Persona" Getting Started applies
 - Set up the [Requirements for Interactive Decision Notebooks](#Requirements-for-Interactive-Decision-Notebooks) to add custom interactivity 
 - Run the workshop Notebook modules sequentially (no coding required!), as the Decision Intelligence & AI concepts "build on" each other  
@@ -47,7 +47,7 @@ The unique workshop structure with diverse focus areas, allows this workshop to 
 
 ## Printed Book
 
-What is difference between the workshop the printed companion book? The Printed Book has the following features:
+What is the difference between the workshop the printed companion book? The Printed Book has the following features:
 * Deeper focus on Decision Intelligence theory with more advanced application of Generative AI rather than a code-first focus.  
 * Additional advanced real-world examples with Artificial Intelligence.  
 * Chapters are organized using the Decision Intelligence Framework. A great deal less code illustrated in the book, making it easier to consume for non-technical readers.  
