@@ -72,6 +72,9 @@ The Table of Contents below illustrates the structure of the Decision Intelligen
 |1h - Decision Intelligence - Decision Communication||🛠️|[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/1h%20-%20Decision%20Intelligence%20-%20Decision%20Communication.ipynb)|
 |1i - Decision Intelligence - Using the Decision Intelligence Framework||🛠️|[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/1i%20-%20Decision%20Intelligence%20-%20Applying%20the%20Decision%20Intelligence%20Framework.ipynb)|
 |1j - Decision Intelligence - Enterprise Decision Intelligence||🛠️|[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/1j%20-%20Decision%20Intelligence%20-%20Enterprise%20Decision%20Intelligence.ipynb)|
+|2a - Workshop - Setup to Execute Code Exercises||✅|[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/2a%20-%20Workshop%20-%20Setup%20to%20Execute%20Code%20Exercises.ipynb)|
+|2b - Workshop - About Microsoft AI Extensions||✅ Available|[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/2b%20-%20Workshop%20-%20About%20Microsoft%20AI%20Extensions.ipynb)|
+|2c - Workshop - About Semantic Kernel Orchestration||✅ Available|[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/2c%20-%20Workshop%20-%20About%20Semantic%20Kernel%20Orchestration.ipynb)|
 
 ## Requirements for Interactive Decision Notebooks
 
