@@ -77,6 +77,8 @@ The Table of Contents below illustrates the structure of the Decision Intelligen
 |2c - Workshop - About Semantic Kernel Orchestration||✅|[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/2c%20-%20Workshop%20-%20About%20Semantic%20Kernel%20Orchestration.ipynb)|
 |2d - Semantic Kernel - Simple Decision Prompts|<ul><li>Understanding Decision-Making Frameworks Built-Into AI</li><li>Create Custom Decision-Making AI Personas</li><li>Scenario: Deciding between Comunity College or a University</li></ul>|✅|[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/2d%20-%20Semantic%20Kernel%20-%20Simple%20Decision%20Prompts.ipynb)|
 |2e - Semantic Kernel - Chat Completion for Decisions|<ul><li>Understanding Decision-Making Frameworks Built-Into AI</li><li>Selecting the Optimal Decision Framework</li><li>Scenario: Multi-Turn Decision Conversation for a Fitness Device</li><li>Inspecting Decision Memory with AI</li></ul>|✅|[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/2e%20-%20Semantic%20Kernel%20-%20Chat%20Completion%20for%20Decisions.ipynb)|
+|2f - Semantic Kernel - Open Source Decision Intelligence|<ul><li>Scenario: Decision Evaluation for Purchasing an Investment Property</li><li>Decision Reasoning</li><li>Decision Reasoning with AI</li><li>Scenario: Applying the Ben Frankling Decision Framework for Family Vacation Decision</li></ul>|✅|[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/2f%20-%20Semantic%20Kernel%20-%20Open%20Source%20Decision%20Intelligence.ipynb)|
+
 
 ## Requirements for Interactive Decision Notebooks
 
