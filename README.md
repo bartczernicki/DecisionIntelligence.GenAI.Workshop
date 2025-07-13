@@ -71,7 +71,7 @@ The Table of Contents below illustrates the structure of the Decision Intelligen
 |1g - Decision Intelligence - Decision Execution with Quantitative Methods|<ul><li>Quantitative Execution Introduction</li><li>Math is Hard for Humans</li><li>Data Analysis by Humans</li><li>Arriving at Quantitative Conclusions using Simulations</li><li>Introducing the Monte Carlo</li><li>Scenario: Monte Carlo for Total Cost of Car Ownership</li></ul>|✅|[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/1g%20-%20Decision%20Intelligence%20-%20Decision%20Execution%20with%20Quantitative%20Methods.ipynb)|
 |1h - Decision Intelligence - Decision Communication||🛠️|[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/1h%20-%20Decision%20Intelligence%20-%20Decision%20Communication.ipynb)|
 |1i - Decision Intelligence - Using the Decision Intelligence Framework||🛠️|[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/1i%20-%20Decision%20Intelligence%20-%20Applying%20the%20Decision%20Intelligence%20Framework.ipynb)|
-|1j - Decision Intelligence - Enterprise Decision Intelligence||🛠️ Coming Soon|[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/1j%20-%20Decision%20Intelligence%20-%20Enterprise%20Decision%20Intelligence.ipynb)|
+|1j - Decision Intelligence - Enterprise Decision Intelligence||🛠️|[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/1j%20-%20Decision%20Intelligence%20-%20Enterprise%20Decision%20Intelligence.ipynb)|
 
 ## Requirements for Interactive Decision Notebooks
 
