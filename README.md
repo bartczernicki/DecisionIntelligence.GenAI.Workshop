@@ -61,7 +61,7 @@ The Table of Contents below illustrates the structure of the Decision Intelligen
 > This workshop is currently being developed in conjunction with the companion book. During this time, there will be frequent changes. Content that is available (even if partially) is noted below. Content that does not have the Availability checkmark is in early stages or not available yet. Please check back for updates!  
 
 | Module (Chapter) | Decision Intelligence | Available | Link |
-|------------------|-----------------------|-----------|------|
+|------------------|-----------------------|:---------:|------|
 |1a - Decision Intelligence - Introducing the Decision Intelligence Framework| <ul><li>Framework Introduction</li><li>Eisenhower Decision Priorotization</li></ul> |✅|[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/1a%20-%20Decision%20Intelligence%20-%20Introducing%20the%20Decision%20Intelligence%20Framework.ipynb)|
 |1b - Decision Intelligence - Decision Framing| <ul><li>Decision Framing Introduction</li><li>Reframing Alternative Decision Options</li><li>Systematic Frameworks</li></ul> |✅|[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/1b%20-%20Decision%20Intelligence%20-%20Decision%20Framing.ipynb)|
 |1c - Decision Intelligence - Gathering Intelligence|<ul><li>Gathering Intelligence Introduction</li><li>Historical Examples</li><li>Intelligence with AI</li></ul>|✅|[Link](https://github.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/blob/main/Notebooks/1c%20-%20Decision%20Intelligence%20-%20Gathering%20Intelligence.ipynb)|
