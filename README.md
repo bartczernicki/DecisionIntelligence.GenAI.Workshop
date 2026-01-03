@@ -1,6 +1,6 @@
 # Decision Intelligence Generative AI Workshop
 
-**[Work In Progress - Estimated Beta Launch: December 2025]**
+**[Work In Progress - Estimated Beta Launch: April 2026]**
 
 <img style="display: block; margin: auto;" width ="700px" src="https://raw.githubusercontent.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/main/Images/DecisionIntelligenceFramework/DecisionIntelligence.png">
 <br/>  
@@ -99,12 +99,12 @@ The Table of Contents below illustrates the structure of the Decision Intelligen
    - **Install VS Code**: [Download Visual Studio Code](https://code.visualstudio.com/)
    - **Use GitHub CodeSpaces**: [Open in GitHub CodeSpaces](https://github.com/features/codespaces)
    - **Azure Machine Learning Notebooks**
-2. Install .NET 9.x SDK:
-   - **Install .NET 9 SDK**: [Download .NET 9]([https://code.visualstudio.com/](https://dotnet.microsoft.com/en-us/download/dotnet/9.0))  
+2. Install .NET 10.x SDK:
+   - **Install .NET 10 SDK**: [Download .NET 10]([https://code.visualstudio.com/](https://dotnet.microsoft.com/en-us/download/dotnet/10.0))  
 3. Polyglot Notebook extension running in VS Code, which allows you to execute .NET program  
 <img width ="600px" src="https://user-images.githubusercontent.com/547415/224161370-1c628967-ae0e-42b2-9c64-e3c1d7756f0b.png">
 4. Clone or fork this GitHub Repository    
-5. Have access to Azure OpenAI. Bing Search for internet knowledge graph (Endpoint, GPT-4 model, API Key, Bing Search API Key)  
+5. Have access to Azure OpenAI or OpenAI (Endpoint, GPT-5.x model recommended)  
 6. When running the notebooks, select `.NET Interactive` for your VS Code Notebook kernel  
 <img width ="600px" src="https://user-images.githubusercontent.com/19276747/222540791-a054da73-a111-454f-9e93-251d620a0c2d.png">
 
