@@ -108,17 +108,20 @@ The Table of Contents below illustrates the structure of the Decision Intelligen
 4. Install Jupyter (JupyterLab)
    - **Option 1 - Insructions**: https://jupyter.org/install
    - **Option 2 - Anaconda Distribution**: https://www.anaconda.com/distribution 
-6. Configure Jupyter Extension to use .NET Kernel 
-   - Open a Terminal and run the following Jupyter command, by default you will only see the Python kernel listed
+6. Configure Jupyter Extension to use .NET Kernel
+
+- Open a Terminal and run the following Jupyter command, by default you will only see the Python kernel listed
 ```bash
 > jupyter kernelspec list
   python3            /opt/homebrew/Cellar/jupyterlab/4.5.4/libexec/lib/python3.14/site-packages/ipykernel/resources
 ```
-   - Install .NET Interactive using the following command
+
+- Install .NET Interactive using the following command
 ```bash
 > dotnet tool install --global Microsoft.dotnet-interactive
 ```
-   - Install .NET Kernel for Jupyter using the following command
+
+- Install .NET Kernel for Jupyter using the following command
 ```bash
 > dotnet interactive jupyter install
 Installing using jupyter kernelspec module.
