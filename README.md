@@ -112,9 +112,30 @@ The Table of Contents below illustrates the structure of the Decision Intelligen
    - Open a Terminal and run the following Jupyter command, by default you will only see the Python kernel listed
 ```bash
 > jupyter kernelspec list
-  python3        /opt/homebrew/Cellar/jupyterlab/4.5.4/libexec/lib/python3.14/
+  python3            /opt/homebrew/Cellar/jupyterlab/4.5.4/libexec/lib/python3.14/site-packages/ipykernel/resources
 ```
-
+   - Install .NET Interactive using the following command
+```bash
+> dotnet tool install --global Microsoft.dotnet-interactive
+```
+   - Install .NET Kernel for Jupyter using the following command
+```bash
+> dotnet interactive jupyter install
+Installing using jupyter kernelspec module.
+Installed ".NET (PowerShell)" kernel.
+Installing using jupyter kernelspec module.
+Installed ".NET (C#)" kernel.
+Installing using jupyter kernelspec module.
+Installed ".NET (F#)" kernel.
+```
+ - Verify the installation worked, you should see 3 new .NET kernels added
+```bash
+> jupyter kernelspec list
+  python3            /opt/homebrew/Cellar/jupyterlab/4.5.4/libexec/lib/python3.14/site-packages/ipykernel/resources
+  .net-csharp        /Users/bart/Library/Jupyter/kernels/.net-csharp
+  .net-fsharp        /Users/bart/Library/Jupyter/kernels/.net-fsharp
+  .net-powershell    /Users/bart/Library/Jupyter/kernels/.net-powershell
+```
 <img width ="600px" src="https://user-images.githubusercontent.com/547415/224161370-1c628967-ae0e-42b2-9c64-e3c1d7756f0b.png">
 6. Clone or fork this GitHub Repository    
 7. Have access to Azure OpenAI or OpenAI (Endpoint, GPT-5.x model recommended)  
