@@ -139,9 +139,9 @@ Installed ".NET (F#)" kernel.
   .net-fsharp        /Users/bart/Library/Jupyter/kernels/.net-fsharp
   .net-powershell    /Users/bart/Library/Jupyter/kernels/.net-powershell
 ```
-<img width ="600px" src="https://user-images.githubusercontent.com/547415/224161370-1c628967-ae0e-42b2-9c64-e3c1d7756f0b.png">
-6. Clone or fork this GitHub Repository    
+
+6. Clone or fork this GitHub Repository     
 7. Have access to Azure OpenAI or OpenAI (Endpoint, GPT-5.x model recommended)  
-8. When running the notebooks, select `.NET Interactive` for your VS Code Notebook kernel  
-<img width ="600px" src="https://user-images.githubusercontent.com/19276747/222540791-a054da73-a111-454f-9e93-251d620a0c2d.png">
+8. When running the notebooks, ensure `.NET (C#)` is the selected kernel for your Notebooks 
+<img width ="600px" src="https://raw.githubusercontent.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/refs/heads/main/Images/Common/JupyterDotNetKernel.png">
 
