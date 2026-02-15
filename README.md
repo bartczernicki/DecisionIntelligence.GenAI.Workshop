@@ -101,10 +101,23 @@ The Table of Contents below illustrates the structure of the Decision Intelligen
    - **Azure Machine Learning Notebooks**
 2. Install .NET 10.x SDK:
    - **Install .NET 10 SDK**: [Download .NET 10]([https://code.visualstudio.com/](https://dotnet.microsoft.com/en-us/download/dotnet/10.0))  
-3. Polyglot Notebook extension running in VS Code, which allows you to execute .NET program  
+3. Install C# & .NET Visual Studio Code Extensions
+   - **C#**: https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp
+   - **C# Dev Kit**: https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit 
+   - **Juypyter Extension for VSCode**: https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter
+4. Install Jupyter (JupyterLab)
+   - **Option 1 - Insructions**: https://jupyter.org/install
+   - **Option 2 - Anaconda Distribution**: https://www.anaconda.com/distribution 
+6. Configure Jupyter Extension to use .NET Kernel 
+   - Open a Terminal and run the following Jupyter command, by default you will only see the Python kernel listed
+```bash
+> jupyter kernelspec list
+  python3        /opt/homebrew/Cellar/jupyterlab/4.5.4/libexec/lib/python3.14/
+```
+
 <img width ="600px" src="https://user-images.githubusercontent.com/547415/224161370-1c628967-ae0e-42b2-9c64-e3c1d7756f0b.png">
-4. Clone or fork this GitHub Repository    
-5. Have access to Azure OpenAI or OpenAI (Endpoint, GPT-5.x model recommended)  
-6. When running the notebooks, select `.NET Interactive` for your VS Code Notebook kernel  
+6. Clone or fork this GitHub Repository    
+7. Have access to Azure OpenAI or OpenAI (Endpoint, GPT-5.x model recommended)  
+8. When running the notebooks, select `.NET Interactive` for your VS Code Notebook kernel  
 <img width ="600px" src="https://user-images.githubusercontent.com/19276747/222540791-a054da73-a111-454f-9e93-251d620a0c2d.png">
 
