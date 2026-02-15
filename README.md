@@ -100,7 +100,7 @@ The Table of Contents below illustrates the structure of the Decision Intelligen
    - **Use GitHub CodeSpaces**: [Open in GitHub CodeSpaces](https://github.com/features/codespaces)
    - **Azure Machine Learning Notebooks**
 2. Install .NET 10.x SDK:
-   - **Install .NET 10 SDK**: [Download .NET 10]([https://code.visualstudio.com/](https://dotnet.microsoft.com/en-us/download/dotnet/10.0))  
+   - **Install .NET 10 SDK**: https://dotnet.microsoft.com/en-us/download/dotnet/10.0  
 3. Install C# & .NET Visual Studio Code Extensions
    - **C#**: https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp
    - **C# Dev Kit**: https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit 
