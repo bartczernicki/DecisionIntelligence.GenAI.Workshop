@@ -142,6 +142,6 @@ Installed ".NET (F#)" kernel.
 
 6. Clone or fork this GitHub Repository     
 7. Have access to Azure OpenAI or OpenAI (Endpoint, GPT-5.x model recommended)  
-8. When running the notebooks, ensure `.NET (C#)` is the selected kernel for your Notebooks 
-<img width ="600px" src="https://raw.githubusercontent.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/refs/heads/main/Images/Common/JupyterDotNetKernel.png">
+8. When running the notebooks, ensure `.NET (C#)` is the selected kernel for your Notebooks. The Notebooks are saved by default to use the .NET kernel. 
+<img width ="750px" src="https://raw.githubusercontent.com/bartczernicki/DecisionIntelligence.GenAI.Workshop/refs/heads/main/Images/Common/JupyterDotNetKernel.png">
 
