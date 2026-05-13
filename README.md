@@ -97,10 +97,8 @@ The Table of Contents below illustrates the structure of the Decision Intelligen
 
 ## Requirements for Interactive Decision Notebooks
 
-1. Visual Studio Code running on your local workstation or VS Code with GitHub CodeSpaces or Azure Machine Learning Notebooks
+1. Visual Studio Code running on your local workstation or VS Code with GitHub CodeSpaces 
    - **Install VS Code**: [Download Visual Studio Code](https://code.visualstudio.com/)
-   - **Use GitHub CodeSpaces**: [Open in GitHub CodeSpaces](https://github.com/features/codespaces)
-   - **Azure Machine Learning Notebooks**
 2. Install .NET 10.x SDK:
    - **Install .NET 10 SDK**: https://dotnet.microsoft.com/en-us/download/dotnet/10.0  
 3. Install C# & .NET Visual Studio Code Extensions
